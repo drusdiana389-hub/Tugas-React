@@ -153,20 +153,6 @@ export default function Var() {
     dapatBeasiswa
   );
 
-  /*
-    Skenario:
-    Nilai akademik tinggi = true
-    Juara lomba = false
-
-    Karena menggunakan operator OR (||),
-    cukup salah satu kondisi bernilai true.
-
-    true || false = true
-
-    Jadi siswa tetap mendapatkan beasiswa.
-  */
-
-
   // SOAL 10
   // Studi Kasus Blok Scope Variabel di Keranjang Belanja
   // Let vs Var
