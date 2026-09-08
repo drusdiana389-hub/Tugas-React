@@ -100,9 +100,9 @@
 //   },
 // });
 
-import Var from "./variabel/var";
-import Kondisi from "./variabel/kondisi";
-import Loop from "./variabel/loop";
+import Var from "./var";
+import Kondisi from "./kondisi";
+import Loop from "./loop";
 
 export default function Index() {
   return (
