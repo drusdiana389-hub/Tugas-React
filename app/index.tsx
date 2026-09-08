@@ -111,7 +111,7 @@ export default function Index() {
       <Kondisi />
       <Array />
       <Loop />
-      <fungsi />
+      <Fungsi />
     </>
   );
 }
