@@ -109,6 +109,7 @@ export default function Index() {
     <>
       <Var />
       <Kondisi />
+      <Array />
       <Loop />
     </>
   );
